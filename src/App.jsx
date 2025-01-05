@@ -16,7 +16,7 @@ const App = () => {
       <div className="min-h-screen flex flex-col items-center">
         <div className="w-[400px] py-12">
           <h1 className="text-4xl font-bold mb-8 text-center bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-            파이썬 작심삼일 챌린지 2기
+            파이썬 작심삼일 챌린지 1기
           </h1>
           <MissionList missions={missions} />
         </div>

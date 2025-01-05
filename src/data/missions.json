@@ -4,91 +4,91 @@
       "id": 1,
       "title": "Mission 1(Quiz)",
       "subtitle": "데이터 타입, 변수, 문자열 인덱싱 등",
-      "releaseDate": "2025-01-09T00:00:00+09:00",
+      "releaseDate": "2024-12-26T00:00:00+09:00",
       "link": "https://forms.gle/LWNCgfPXuKJiGk4K6"
     },
     {
       "id": 2,
       "title": "Mission 2(Coding)",
       "subtitle": "리스트, 메서드, 튜플",
-      "releaseDate": "2025-01-12T00:00:00+09:00",
+      "releaseDate": "2024-12-29T00:00:00+09:00",
       "link": "https://forms.gle/xDuZ2uzgHwH4eEJ16"
     },
     {
       "id": 3,
       "title": "Mission 3(Quiz)",
       "subtitle": "딕셔너리, 이차원 데이터, 조건문",
-      "releaseDate": "2025-01-15T00:00:00+09:00",
+      "releaseDate": "2025-01-01T00:00:00+09:00",
       "link": "https://forms.gle/viMsKG1L3YiCQYCH8"
     },
     {
       "id": 4,
       "title": "Mission 4(Coding)",
       "subtitle": "for문, 조건문",
-      "releaseDate": "2025-01-18T00:00:00+09:00",
+      "releaseDate": "2025-01-04T00:00:00+09:00",
       "link": "https://forms.gle/vGB7Eboc16Jg3tPQ6"
     },
     {
       "id": 5,
       "title": "Mission 5(Quiz)",
       "subtitle": "break, continue, while",
-      "releaseDate": "2025-01-21T00:00:00+09:00",
+      "releaseDate": "2025-01-07T00:00:00+09:00",
       "link": "https://forms.gle/mqQjAY8iheCtHg6LA"
     },
     {
       "id": 6,
       "title": "Mission 6(Coding)",
       "subtitle": "함수",
-      "releaseDate": "2025-01-24T00:00:00+09:00",
+      "releaseDate": "2025-01-10T00:00:00+09:00",
       "link": "https://forms.gle/k8WoqSkZKfcHjew56"
     },
     {
       "id": 7,
       "title": "Mission 7(Quiz)",
       "subtitle": "LEGB 규칙, 모듈",
-      "releaseDate": "2025-01-27T00:00:00+09:00",
+      "releaseDate": "2025-01-13T00:00:00+09:00",
       "link": "https://forms.gle/VWgLcri53gAhgRGF7"
     },
     {
       "id": 8,
       "title": "Mission 8(Quiz)",
       "subtitle": "클래스, 메서드",
-      "releaseDate": "2025-01-30T00:00:00+09:00",
+      "releaseDate": "2025-01-16T00:00:00+09:00",
       "link": "https://forms.gle/eVsHLPYPShiBLggm8"
     },
     {
       "id": 9,
       "title": "Mission 9(Coding)",
       "subtitle": "클래스",
-      "releaseDate": "2025-02-02T00:00:00+09:00",
+      "releaseDate": "2025-01-19T00:00:00+09:00",
       "link": "https://forms.gle/63PmrZ39p8QKqMB48"
     },
     {
       "id": 10,
       "title": "Mission 10(Coding)",
       "subtitle": "예외처리, 프로젝트",
-      "releaseDate": "2025-02-05T00:00:00+09:00",
+      "releaseDate": "2025-01-22T00:00:00+09:00",
       "link": "https://forms.gle/LshdK6rxn3fEe9WS8"
     },
     {
       "id": 11,
       "title": "Mission 11(Coding)",
       "subtitle": "프로젝트",
-      "releaseDate": "2025-02-08T00:00:00+09:00",
+      "releaseDate": "2025-01-25T00:00:00+09:00",
       "link": "https://forms.gle/sxuyHMAd3KzUBCLW6"
     },
     {
       "id": 12,
       "title": "Mission 12(Coding)",
       "subtitle": "프로젝트",
-      "releaseDate": "2025-02-11T00:00:00+09:00",
+      "releaseDate": "2025-01-28T00:00:00+09:00",
       "link": "https://forms.gle/qJCEEyVkvPK9gj3w6"
     },
     {
       "id": 13,
       "title": "Mission 13(Coding)",
       "subtitle": "프로젝트",
-      "releaseDate": "2025-02-14T00:00:00+09:00",
+      "releaseDate": "2025-01-31T00:00:00+09:00",
       "link": "https://forms.gle/jVYcDBbVnPbiDjtQ9"
     }
   ]
